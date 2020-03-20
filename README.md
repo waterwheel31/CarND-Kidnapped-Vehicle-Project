@@ -18,7 +18,7 @@
 ## Results 
 
 - The filter locates the position with limited errors
-- See the gif image above 
+- See the gif image above (blue circle shows the estimated vehicle position)
 
 
 ## How to Run
